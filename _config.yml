@@ -217,6 +217,9 @@ collections:
   talks:
     output: true
     permalink: /:collection/:path/
+  treks_and_travels:
+    output: true
+    permalink: /:collection/:path/
 
 # These settings control how pages and collections are included in the site
 defaults:
