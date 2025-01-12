@@ -268,10 +268,10 @@ defaults:
       author_profile: true
       share: true
       comment: true
-  # _talks
+  # _treks_and_travels
   - scope:
       path: ""
-      type: talks
+      type: treks_and_travels
     values:
       layout: talk
       author_profile: true
