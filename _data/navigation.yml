@@ -11,8 +11,8 @@ main:
   # - title: "Talks"
   #   url: /talks/
 
-  - title: "Teaching"
-    url: /teaching/
+  - title: "Treks and Travels"
+    url: /treks_and_travels/
 
   - title: "Portfolio"
     url: /portfolio/
@@ -23,5 +23,5 @@ main:
   - title: "CV"
     url: /cv/
 
-  - title: "Treks and Travels"
-    url: /treks_and_travels/
+  - title: "Teaching"
+    url: /teaching/

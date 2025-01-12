@@ -273,9 +273,10 @@ defaults:
       path: ""
       type: treks_and_travels
     values:
-      layout: talk
+      layout: single
       author_profile: true
       share: true
+      comment: true
 
 # Sass/SCSS
 sass:
