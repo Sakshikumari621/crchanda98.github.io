@@ -44,12 +44,12 @@ author:
   bitbucket: # Username - Update with your username on the site
   codepen: # Username
   dribbble: # Username
-  github: "academicpages"
+  github: "crchanda98"
   kaggle: # Username
   stackoverflow: # User number or user number and name (i.e., use "1" or "1/jeff-atwood")
 
   # Social media
-  bluesky: "bsky.app" # Replace this with you Bluesky username
+  bluesky: #"bsky.app" # Replace this with you Bluesky username
   facebook: # Username
   flickr: # Username
   foursquare: # Username
@@ -58,7 +58,7 @@ author:
   keybase: # Username
   instagram: # Username
   lastfm: # Username
-  linkedin: "https://www.linkedin.com/in/arijit-chanda-88209936"
+  linkedin: "arijit-chanda-88209936"
   mastodon: # URL
   medium: # URL
   pinterest: # Username
@@ -128,7 +128,7 @@ yandex_site_verification:
 
 # Social Sharing
 twitter:
-  username: &twitter
+  username: #&twitter
 facebook:
   username:
   app_id:
