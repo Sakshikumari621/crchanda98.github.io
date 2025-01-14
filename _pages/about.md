@@ -2,16 +2,16 @@
 permalink: /
 title: "About me"
 author_profile: true
-redirect_from: 
+redirect_from:
   - /about/
   - /about.html
 ---
 
-Hi, welcome to my profile. I am Arijit. By profession I am a meteorologist with more than eight years of expericene in various fields incluidng demand modelling, air quality modelling, NLP and energy forecasting. At present I am leading the technical team of weather and energy forecasting project. The details of the project can be found [here](https://github.com/academicpages/academicpages.github.io). In my off-time, I read books, learn new technologies (like I am learing how to use hithub.io), and explore music (finding new songs, humming them through my harmonica). I spend my holidays travelling across different places, making new friends, learning cultures and saving them in memory for me and through my lense for you!
+Hi, welcome to my profile. I am Arijit. By profession I am a meteorologist with more than eight years of experience in various fields including demand modelling, air quality modelling, NLP and energy forecasting. At present I am leading the technical team of weather and energy forecasting project. The details of the project can be found [here](https://github.com/academicpages/academicpages.github.io). In my off-time, I read books, learn new technologies (like I am learning how to use github.io), and explore music (finding new songs, humming them through my harmonica). I spend my holidays travelling across different places, making new friends, learning cultures and saving them in memory for me and through my lens for you!
 
 My education journey
 ======
-I hail from Birnagar, a small town from West Bengal with strong historical significance. Through my education and profession, I have spent significant amount of time at southern part of India. During my graduation at Pondicherry Engineering College, I was fortunate to learn about Tamil culture,language and their cuisine. A healthy GATE score after conpleting BTech opened up multilple options for me inclding sailing thorugh academia persuning masters and joing PSUs as graduate engineering trainy. But the most lucrative was the chance at IISc Bangalore for MTech in Climate Science. In 2016, I enterd into industry after complete post-graduate from one of the estemeed college of India as well as World.
+I hail from Birnagar, a small town from West Bengal with strong historical significance. Through my education and profession, I have spent significant amount of time at southern part of India. During my graduation at Pondicherry Engineering College, I was fortunate to learn about Tamil culture,language and their cuisine. A healthy GATE score after completing BTech opened up multiple options for me including sailing through academia pursuing masters and joining PSUs as graduate engineering trainee. But the most lucrative was the chance at IISc Bangalore for MTech in Climate Science. In 2016, I entered into industry after complete post-graduate from one of the esteemed college of India as well as World.
 
 Professional life
 ======
